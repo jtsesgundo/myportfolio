@@ -306,60 +306,77 @@
         </div>
       </section>
 
-      <div class="grid">
+      <section class="grid container">
+        <h2>
+          <small>Recent</small>
+          Projects
+        </h2>
         <article>
-          <h2>
-            <small>
-              Previous
-            </small>
-            Completed Projects
-          </h2>
+            <img src="./img/pawsitive.jpg" alt="Pawsitive">
+          <div class="d-flex">
+            <div>
+              <h3>Pawsitive</h3>
+              <p>KODEGO</p>
+            </div>
+            <a href="https://github.com/brypaulopez/pawsitive-capstone" target="_blank"><i class="fa-brands fa-github"></i></a>
+          </div>
         </article>
         <article>
-          <img src="./img/pawsitive.jpg" alt="Pawsitive">
+          <img src="./img/crocs.jpg" alt="Crocs ">
           <div>
-            <h3>Pawsitive</h3>
+            <h3>Crocs by MJ Footwear</h3>
             <p>KODEGO</p>
           </div>
         </article>
         <article>
           <img src="./img/time&watch.JPG" alt="Time & Watch">
           <div>
-            <h3>Pawsitive</h3>
-            <p>KODEGO</p>
-          </div>
-        </article>
-        <article>
-          <img src="./img/crocs.JPG" alt="Crocs">
-          <div>
-            <h3>Pawsitive</h3>
-            <p>KODEGO</p>
-          </div>
-        </article>
-        <article>
-          <article>
-            <img src="./img/baguio.jpg" alt="Baguio City">
-          <div>
-            <h3>Pawsitive</h3>
+            <h3>Time & Watch</h3>
             <p>KODEGO</p>
           </div>
         </article>
         <article>
           <img src="./img/baguio.jpg" alt="Baguio City">
-        <div>
-          <h3>Pawsitive</h3>
-          <p>KODEGO</p>
-        </div>
+          <div>
+            <h3>Baguio City</h3>
+            <p>KODEGO</p>
+          </div>
         </article>
-      </article>
-      <article>
-        <img src="./img/baguio.jpg" alt="Baguio City">
-      <div>
-        <h3>Pawsitive</h3>
-        <p>KODEGO</p>
-      </div>
-      </article>
-    </div>
+        <article>
+          <img src="./img/Calculator.jpg" alt="Calculator">
+          <div>
+            <h3>Calculator</h3>
+            <p>KODEGO</p>
+          </div>
+        </article>
+        <article>
+          <img src="./img/Converters.jpg" alt="Converters">
+          <div>
+            <h3>Converters</h3>
+            <p>KODEGO</p>
+          </div>
+        </article>
+        <article>
+          <img src="./img/Rock, Scissors, Paper.jpg" alt="Rock, Scissors, Paper">
+          <div>
+            <h3>Rock, Scissors, Paper</h3>
+            <p>KODEGO</p>
+          </div>
+        </article>
+        <article>
+          <img src="./img/To do, Search.jpg" alt="To do, Search">
+          <div>
+            <h3>To do, Search</h3>
+            <p>KODEGO</p>
+          </div>
+        </article>
+        <article>
+          <img src="./img/Phases of life.jpg" alt="Phases of Life">
+          <div>
+            <h3>Phases of Life</h3>
+            <p>KODEGO</p>
+          </div>
+        </article>
 
       {{-- <section class="projects">
         <h2>
@@ -427,32 +444,6 @@
         </article>
       </section> --}}
 
-      {{-- <section class="bento container" id="projects">
-        <h2>
-          <small>
-            Previous
-          </small>
-          Completed Projects
-        </h2>
-        <div class="bento-grid">
-          <div class="bento-item">
-            <a href="#"><img src="./img/pawsitive.jpg" alt="workplace 1" width="100%">
-            </a>
-          </div>
-          <div class="bento-item">
-            <a href="#"><img src="./img/crocs.jpg" alt="workplace 1" width="100%">
-            </a>
-          </div>
-          <div class="bento-item">
-            <a href="#"><img src="./img/time&watch.jpg" alt="workplace 1" width="100%">
-            </a>
-          </div>
-          <div class="bento-item"><a href="#"><img src="./img/baguio.jpg" alt="workplace 1" width="100%"></a>
-          </div>
-          <div class="bento-item"><a href="#"><img src="./img/baguio.jpg" alt="workplace 1" width="100%"></a>
-          </div>
-        </div>
-      </section> --}}
 
 
     </main>
